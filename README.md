@@ -33,3 +33,5 @@ ciency. Such an automatic lock gadget is composed of digital manage assembly,
  • K1: Relay SPDT
 
  • KEYPAD1: Keypad 4x4
+# Link to The Cad Design
+https://www.tinkercad.com/things/0UbDq9AgChU-password-protected-doorlock?sharecode=DUKgZMAYMpoTGDh135Brjs3D1eKBnsGGOoPA0jCcCB8 
