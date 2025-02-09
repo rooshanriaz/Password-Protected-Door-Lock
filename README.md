@@ -9,7 +9,7 @@ established lock structures use mechanical locking and those may be changed
 ciency. Such an automatic lock gadget is composed of digital manage assembly,
  which controls the output load via a password. The instance of this output load
  may be a motor or a an automatic door latch.
-# Software Compnents 
+## Software Compnents 
  • U1: Arduino Uno R3
 
  • SERVO1: Positional Micro Servo
@@ -33,5 +33,5 @@ ciency. Such an automatic lock gadget is composed of digital manage assembly,
  • K1: Relay SPDT
 
  • KEYPAD1: Keypad 4x4
-# Link to The Cad Design
+## Link to The Cad Design
 https://www.tinkercad.com/things/0UbDq9AgChU-password-protected-doorlock?sharecode=DUKgZMAYMpoTGDh135Brjs3D1eKBnsGGOoPA0jCcCB8 
